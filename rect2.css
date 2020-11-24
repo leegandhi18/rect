@@ -1,0 +1,59 @@
+#headerDiv {
+    position: fixed; 
+    width: 100%;
+    left: 0; 
+    right: 0; 
+    top: 0; 
+    height: 10rem; 
+    background-color: skyblue; 
+    line-height: 5rem; 
+    text-align: center;
+    text-shadow: 2px 2px 2px gray;
+
+}
+
+#footerDiv {
+    /* position: fixed; */
+    height: 4rem;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 30px 0;
+    text-align: center;
+    color: white;
+    background-color: bisque;
+}
+
+
+span {
+    font-size : 13px;
+    color: black;
+}
+.rectangle {
+    font-size: 15px;
+    text-align:center;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color:cornflowerblue;
+    margin: 18px;
+}
+
+#totalDiv {
+    border : 4px solid #cacaca;
+    display: inline-block;
+    /* margin : 10% 10% 1% 10%; */
+    /* width : 80%; */
+    width : 100%;
+    min-height: 500px;
+    /* height : 500px; */
+    /* background-color: bisque; */
+}
+
+#btn {
+    /* display: inline-block; */
+    /* margin :5% 0 0 85%; */
+    margin :0 0 -5% 110%;
+    /* position: fixed; */
+}
